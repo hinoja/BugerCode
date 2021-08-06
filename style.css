@@ -1,0 +1,83 @@
+ .thumbmail
+ {
+ 	border:6px solid white;
+ 	margin-bottom: 20px;
+
+ }
+ img
+ {
+ 	width: 100%;
+ 	background-color: #ffd301;
+   
+
+
+
+ }
+ body
+ {
+ 	 background:url(images/bg.png);
+ }
+ li  
+ {
+ 	list-style-type: none;
+ 	list-style: none;
+ 	 
+ }
+ .site
+ {
+ 	font-family: 'Cooper Black',Algerian;
+ 	font-size: 1.2em;
+ }
+ .caption
+ {
+ 	background-color: white;
+ 	text-align: center;
+ 	padding-top: 19px;
+ }
+.text-logo
+{
+   color: #e7480f;
+   font-size: 50px;
+   text-align: center;
+   text-shadow: 2px 3px #ffd301;
+   text-transform: uppercase;
+
+}
+.price
+{
+	background: #5cb85c;
+	right: 6px;
+	font-size: 20px;
+	top: 20px;
+	color: #fff;
+	position: absolute;
+	border-radius: 5px;
+	padding: 5px 10px;
+	text-shadow: 2px 2px #333;
+
+}
+ .thumbmail > span
+{
+	color: blue;
+	font-weight: bold;
+	font-size: 2em;
+	}
+	h4
+	{
+		font-size: 1.5em;
+	}
+	li
+	{
+		font-size: 20px;
+	}
+	/*  update*/
+	.admin
+	{
+		background-color: white;
+		border-radius: 10px;
+		padding: 50px;
+	}
+   .admin h1
+   {
+   	font-weight: bold;
+   }

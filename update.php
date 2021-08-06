@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+		  <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+     <link rel="stylesheet" type="text/css" href="style.css">
+
+	<title></title>
+</head>
+<body>
+      <h1 class="text-logo"><span class="glyphicon glyphicon-cutlery"></span> Buger Code <span class="glyphicon glyphicon-4-user"><span class="glyphicon glyphicon-cutlery"> </h1>
+
+        
+
+
+			 
+     <script  src="bootstrap/jquery-3.4.1.min.js"></script>
+     <script src="bootstrap/js/bootstrap.min.js"></script>
+    
+</body>
+</html>
